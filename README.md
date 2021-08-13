@@ -40,8 +40,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-## Fish Species Prediction
-*Predict which species the fish belongs to*
+##  Multi Image Classifcation with Imagenet Dataset
+*Predict which class the image belongs to*
 
 The image data of Natural Scenes around the world.Want to build powerful Neural network that can classify these images with more accuracy.
 This database is available on : https://www.kaggle.com/puneet6060/intel-image-classification
@@ -96,5 +96,4 @@ This is an example of how to list things you need to use the software and how to
 
 Arnav Ray - [<img src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" width="15" /> @RayzX20](https://twitter.com/RayzX20) - sfdc.ray@gmail.com
 
-Project Link: [https://fish-species-prediction.herokuapp.com/](https://fish-species-prediction.herokuapp.com/)
 
